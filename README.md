@@ -16,7 +16,6 @@ Example
     καληνύχτα
     ["καληνύχτα","kalinixta"]
     [ [ 0, 1 ], [ 1, 0 ] ]
-    janus@Zeus:~/greeklish$ less script.sh 
     janus@Zeus:~/greeklish$ ./greeklish.sh καληνύχτα Gr2Gl
     kalhnyxta
     No JSON object could be decoded
